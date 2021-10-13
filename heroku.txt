@@ -1,0 +1,4 @@
+user name:vguigymvjafyxz
+pwd:97c5dffa465a025b6fe799c8fd4b2947f0bf4922b9c2df200acedd37847183de
+host:ec2-52-87-123-108.compute-1.amazonaws.com
+db:5432/d84crihvafi56g
